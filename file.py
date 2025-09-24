@@ -1,1 +1,1 @@
-print("Last feature added by the branch newfeature")
+print("Last feature added and project is closed")
