@@ -1,1 +1,1 @@
-print("feature added by the branch feature-B")
+print("Last feature added by the branch newfeature")
